@@ -1,6 +1,6 @@
 # DataStorm 5.0 Competition - Team Tristorm
 
-Welcome to the repository containing the codes and report our team, Tristorm, used to participate in the DataStorm 5.0 competition.
+Welcome to the repository containing the codes and report our team, Tristorm, used to participate in the DataStorm 5.0 competition. Our work covers data preprocessing, clustering, and data-driven visual analysis, with detailed findings and insights documented in the report.
 
 ## Other Team Members
 
@@ -23,6 +23,6 @@ DataStorm 5.0, Sri Lanka's leading Advanced Analytics Competition, is driven by 
 
 We would like to thank the organizers of DataStorm 5.0 for providing us with this opportunity to showcase our skills and compete with some of the best teams out there.
 
----
+
 
 We hope you find this repository useful. Happy coding!
